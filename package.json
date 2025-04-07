@@ -1,0 +1,16 @@
+{
+  "name": "uba-ims",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "user:create": "node users.js user:create",
+    "user:delete": "node users.js user:delete",
+    "user:list": "node users.js user:list",
+    "user:update": "node users.js user:update"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
